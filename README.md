@@ -1,6 +1,6 @@
-[![Competition](https://img.shields.io/badge/make.fun-news--image--20261123-blue)](https://make.fun/bounty/news-image-20261123)
-[![Prize Pool](https://img.shields.io/badge/prize%20pool-%24100-green)](https://make.fun/bounty/news-image-20261123)
-[![Deadline](https://img.shields.io/badge/entries%20close-25%20Nov%202026%2007%3A00%20WIB-orange)](https://make.fun/bounty/news-image-20261123)
+[![Competition](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![Prize Pool](https://make.fun/badge/news-image-20261123/aahcoba8-maker/makefun-news-image-20261123-r2/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![Deadline](https://make.fun/badge/news-image-20261123/aahcoba8-maker/makefun-news-image-20261123-r2/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 # The World Today — 23 November 2026 in one image
 
